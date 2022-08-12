@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi Folks 👋
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: @Arindam_1729 (Twitter)
 
 <!--
 **Arindam200/Arindam200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
