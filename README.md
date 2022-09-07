@@ -1,5 +1,5 @@
 ### Hi Folks 👋
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Go Lang
 - 📫 How to reach me: @Arindam_1729 (Twitter)
 - 😄 Learning in Public 
 <!--
