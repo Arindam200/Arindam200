@@ -1,5 +1,5 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGeme7U95Mb4Q/profile-displaybackgroundimage-shrink_350_1400/0/1659070890089?e=1668038400&v=beta&t=7BrAMQROwob-jrfoKAXYe4OKkQDkZPlX1qQIhUdmsV4)](https://github.com/Arindam200)
-### Hi Folks 👋, Arindam Majumder
+[![MasterHead](https://github.com/Arindam200/Arindam200/blob/main/github-header-image.png)](https://github.com/Arindam200)
+###  Arindam Majumder
 
 #### Learner
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
@@ -47,9 +47,5 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arindam200&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/Arindam200"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
