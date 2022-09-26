@@ -8,7 +8,7 @@ passionate about coding • Learning in Public •
 
 Skills: Python, Go, HTML ,JAVA
 
-- 🌱 I’m currently learning Python , Go , JAVA
+- 🌱 I’m currently learning  JAVA
 - 😄 Pronouns: He/Him 
 - 📧 Contact me : arindammajumder2020@gmail.com
 
