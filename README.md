@@ -14,12 +14,14 @@ Skills: Python, Go, HTML ,JAVA
 
 ---
 
-## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arindam-majumder-021bb623b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Arindam_1729) 
+## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arindam-majumder-021bb623b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Arindam_1729) [![hashnode](http://img.shields.io/badge/-Hashnode-2962ff?style=flat&logo=hashnode&logoColor=white)](https://arindam1729.hashnode.dev/)
 
 <a href="https://www.twitter.com/arindam_1729" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/arindam_1729?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/Arindam200" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+ 
 
 ---
 ## <a href="https://arindam1729.hashnode.dev/"><img src="https://github.com/Arindam200/Arindam200/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
