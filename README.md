@@ -60,9 +60,4 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arindam200&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-
-
 
