@@ -34,6 +34,10 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 <!-- BLOG-POST-LIST:END -->
 ---
 
+<details>
+
+<summary><h2>My GitHUb Stats</h2></summary>
+
 <div align = "center">
 
 <h2>My GitHub Stats<img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
@@ -62,5 +66,6 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 <a href="http://www.github.com/Arindam200"><img src="https://activity-graph.herokuapp.com/graph?username=Arindam200&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ---
+</details>
 
 
