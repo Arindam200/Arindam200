@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 
 <details>
 
-<summary><h2>My GitHUb Stats</h2></summary>
+<summary><h2>My GitHub Stats</h2></summary>
 
 <div align = "center">
 
