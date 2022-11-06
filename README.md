@@ -27,11 +27,11 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 ## <a href="https://arindam1729.hashnode.dev/"><img src="https://github.com/Arindam200/Arindam200/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
 
 <!-- BLOG-POST-LIST:START -->
-- [My 100 Days of Code Journey!](https://arindam1729.hashnode.dev/my-100-days-of-code-journey)
 - [The 10 Biggest Mistakes you shouldn&#39;t make in Open Source](https://arindam1729.hashnode.dev/the-10-biggest-mistakes-you-shouldnt-make-in-open-source)
 - [Update GitHub Profile with your Blog activity using GitHub Actions](https://arindam1729.hashnode.dev/update-github-profile-with-your-blog-activity-using-github-actions)
 - [The Basics of Git for Beginners:&lpar;Part-2&rpar;](https://arindam1729.hashnode.dev/the-basics-of-git-for-beginnerspart-2)
 - [The Basics of Git for Beginners&lpar;Part-1&rpar;](https://arindam1729.hashnode.dev/the-basics-of-git-for-beginnerspart-1)
+- [The Complete Beginner&#39;s Guide To GitHub: &lpar;Part-2&rpar;](https://arindam1729.hashnode.dev/the-complete-beginners-guide-to-github-part-2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
