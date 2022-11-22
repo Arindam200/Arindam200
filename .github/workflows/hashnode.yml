@@ -17,7 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
           USERNAME: 'Arindam1729' # Hashnode Username
-          COUNT: 3 # MAX Visisble
+          COUNT: 2 # MAX Visisble
           STYLE: "blog-left"
           BLOG_URL: "https://arindam1729.hashnode.dev/"
         env:
