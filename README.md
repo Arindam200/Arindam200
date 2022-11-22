@@ -43,6 +43,12 @@ What is the 100 Days of Code Challenge?
 Th... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
+<div align="center">
+<p align="center"><b>FOR MORE BLOGS ⬇</b></p>
+<p><a href="https://arindam1729.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
+</div>
+
+
 ---
 
 
