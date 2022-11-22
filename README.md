@@ -36,7 +36,25 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 ---
 
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://arindam1729.hashnode.dev//easy-steps-to-contribute-to-cncf-glossarys-bengali-localization" title="Easy Steps to Contribute to CNCF Glossary's Bengali Localization"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1668485117274/Zffs5z-7j.jpg" alt="Easy Steps to Contribute to CNCF Glossary's Bengali Localization" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//easy-steps-to-contribute-to-cncf-glossarys-bengali-localization" title="Easy Steps to Contribute to CNCF Glossary's Bengali Localization"><strong>Easy Steps to Contribute to CNCF Glossary's Bengali Localization</strong></a>
+<br/> Introduction
+You can start your Open Source Contribution or enrich your profile by contributing to CNCF (Cloud Native Computing Foundation) Glossary, as Non-Code Contribution does not require any technology-related prior knowledge.
+What is CNCF Gloss... </p> <br/> <br/>
+<p align="left">
+<a href="https://arindam1729.hashnode.dev//my-100-days-of-code-journey" title="My 100 Days of Code Journey!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667590223174/u_O0RTJJB.png" alt="My 100 Days of Code Journey!" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//my-100-days-of-code-journey" title="My 100 Days of Code Journey!"><strong>My 100 Days of Code Journey!</strong></a>
+<br/> Introduction
+My 100 Days of Code Journey was a 100-day journey where I wrote code as I was learning programming. You don’t need to do something like this, but it’s a great way to get in the habit of coding.
 
+What is the 100 Days of Code Challenge?
+Th... </p> <br/> <br/>
+<p align="left">
+<a href="https://arindam1729.hashnode.dev//the-10-biggest-mistakes-you-shouldnt-make-in-open-source" title="The 10 Biggest Mistakes you shouldn't make in Open Source"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666957803613/JOsKEXyzL.png" alt="The 10 Biggest Mistakes you shouldn't make in Open Source" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//the-10-biggest-mistakes-you-shouldnt-make-in-open-source" title="The 10 Biggest Mistakes you shouldn't make in Open Source"><strong>The 10 Biggest Mistakes you shouldn't make in Open Source</strong></a>
+<br/> Introduction
+Being a new contributor to open source can be intimidating because you don’t know exactly what is helpful and what could hurt the community and frustrated maintainers. In this Blog, I will share my learnings from the Session by  Bill Mul... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
