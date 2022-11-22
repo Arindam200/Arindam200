@@ -41,11 +41,6 @@ My 100 Days of Code Journey was a 100-day journey where I wrote code as I was le
 
 What is the 100 Days of Code Challenge?
 Th... </p> <br/> <br/>
-<p align="left">
-<a href="https://arindam1729.hashnode.dev//the-10-biggest-mistakes-you-shouldnt-make-in-open-source" title="The 10 Biggest Mistakes you shouldn't make in Open Source"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666957803613/JOsKEXyzL.png" alt="The 10 Biggest Mistakes you shouldn't make in Open Source" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//the-10-biggest-mistakes-you-shouldnt-make-in-open-source" title="The 10 Biggest Mistakes you shouldn't make in Open Source"><strong>The 10 Biggest Mistakes you shouldn't make in Open Source</strong></a>
-<br/> Introduction
-Being a new contributor to open source can be intimidating because you don’t know exactly what is helpful and what could hurt the community and frustrated maintainers. In this Blog, I will share my learnings from the Session by  Bill Mul... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ---
