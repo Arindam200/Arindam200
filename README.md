@@ -3,10 +3,9 @@
 
 #### Learner
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
-Learner • Python • Go • Open Source • Java
-passionate about coding • Learning in Public •
+Learner • Open Source Enthusiast • passionate about coding • I love collaboration • 
 
-Skills: [![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]()  [![HTML](https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)]() [![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)]() [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)]()
+#### Techstack: [![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]()  [![HTML](https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)]() [![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)]() [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)]()
 
 - 🌱 I’m currently learning  JAVA
 - 😄 Pronouns: He/Him 
