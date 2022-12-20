@@ -27,19 +27,16 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://arindam1729.hashnode.dev//how-to-use-github-effectively-at-hackathons" title="How to use GitHub Effectively at Hackathons"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671548306287/Tn9rpJE3M.png" alt="How to use GitHub Effectively at Hackathons" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//how-to-use-github-effectively-at-hackathons" title="How to use GitHub Effectively at Hackathons"><strong>How to use GitHub Effectively at Hackathons</strong></a>
+<br/> Introduction
+In this blog post, we'll go over some best practices for using GitHub at hackathons. Every time we take part in a hackathon, we upload our project to Github and include the GitHub URL in our project submission.GitHub plays a significant ... </p> <br/> <br/>
+<p align="left">
 <a href="https://arindam1729.hashnode.dev//easy-steps-to-contribute-to-cncf-glossarys-bengali-localization" title="Easy Steps to Contribute to CNCF Glossary's Bengali Localization"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1668485117274/Zffs5z-7j.jpg" alt="Easy Steps to Contribute to CNCF Glossary's Bengali Localization" width="250px" align="left" /></a>
 <a href="https://arindam1729.hashnode.dev//easy-steps-to-contribute-to-cncf-glossarys-bengali-localization" title="Easy Steps to Contribute to CNCF Glossary's Bengali Localization"><strong>Easy Steps to Contribute to CNCF Glossary's Bengali Localization</strong></a>
 <br/> Introduction
 You can start your Open Source Contribution or enrich your profile by contributing to CNCF (Cloud Native Computing Foundation) Glossary, as Non-Code Contribution does not require any technology-related prior knowledge.
 What is CNCF Gloss... </p> <br/> <br/>
-<p align="left">
-<a href="https://arindam1729.hashnode.dev//my-100-days-of-code-journey" title="My 100 Days of Code Journey!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667590223174/u_O0RTJJB.png" alt="My 100 Days of Code Journey!" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//my-100-days-of-code-journey" title="My 100 Days of Code Journey!"><strong>My 100 Days of Code Journey!</strong></a>
-<br/> Introduction
-My 100 Days of Code Journey was a 100-day journey where I wrote code as I was learning programming. You don’t need to do something like this, but it’s a great way to get in the habit of coding.
-
-What is the 100 Days of Code Challenge?
-Th... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
