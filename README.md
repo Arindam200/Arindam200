@@ -4,6 +4,7 @@
 #### Learner
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
 Learner • Open Source Enthusiast • passionate about coding • I love collaboration • 
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=A13B3B&size=20&center=true&vCenter=true&lines=Welcome+to+my+Profile+!!;I+am+open-minded+and+eager+to+learn;Interested+in+Open-Source...;Have+a+nice+day+ahead+!!"></p>
 
 #### Techstack: [![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]()  [![HTML](https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)]() ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 
@@ -72,13 +73,7 @@ Becoming a mentee through the Cloud Native Computing Foundation (CNCF) is a grea
 </div>
 </td>
 </tr>
-
-
----
-
-<a href="http://www.github.com/Arindam200"><img src="https://activity-graph.herokuapp.com/graph?username=Arindam200&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
----
+ <a href="http://www.github.com/Arindam200"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Arindam200&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </details>
 
 
