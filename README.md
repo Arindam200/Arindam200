@@ -30,15 +30,15 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://arindam1729.hashnode.dev//open-source-licensing-solving-the-mystery" title="Open-Source Licensing: Solving the Mystery"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675171046358/45cf882d-b27e-4d71-9a19-8b6052853555.png" alt="Open-Source Licensing: Solving the Mystery" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//open-source-licensing-solving-the-mystery" title="Open-Source Licensing: Solving the Mystery"><strong>Open-Source Licensing: Solving the Mystery</strong></a>
+<br/> Introduction
+Open-source software has become an integral part of the technology industry, with a wide range of benefits for developers, businesses, and users. However, understanding open-source licensing and copyright can be a complex and confusing t... </p> <br/> <br/>
+<p align="left">
 <a href="https://arindam1729.hashnode.dev//a-beginners-guide-to-open-source" title="A Beginners Guide to Open Source"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673727414736/174f7e4e-43a9-450e-bf63-7103b608c2de.png" alt="A Beginners Guide to Open Source" width="250px" align="left" /></a>
 <a href="https://arindam1729.hashnode.dev//a-beginners-guide-to-open-source" title="A Beginners Guide to Open Source"><strong>A Beginners Guide to Open Source</strong></a>
 <br/> Introduction
 Open-source software has been around for decades, but it's only in recent years that it has gained mainstream acceptance. With the rise of open-source projects like Linux, Apache, and WordPress, more and more people are becoming interest... </p> <br/> <br/>
-<p align="left">
-<a href="https://arindam1729.hashnode.dev//roadmap-to-becoming-a-cncf-mentee" title="Roadmap to Becoming a CNCF Mentee"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673434132809/800d8057-452a-4b4b-a907-4eb502584049.png" alt="Roadmap to Becoming a CNCF Mentee" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//roadmap-to-becoming-a-cncf-mentee" title="Roadmap to Becoming a CNCF Mentee"><strong>Roadmap to Becoming a CNCF Mentee</strong></a>
-<br/> Introduction
-Becoming a mentee through the Cloud Native Computing Foundation (CNCF) is a great way to gain experience and knowledge in the field of cloud-native computing. The CNCF mentorship program pairs experienced professionals with mentees who a... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
