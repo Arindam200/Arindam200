@@ -30,16 +30,17 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://arindam1729.hashnode.dev//getting-started-with-blogging-a-beginners-guide" title="Getting Started with Blogging: A Beginners Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678203645622/0025ed38-bb32-4b03-a6ca-763c6f7a71b6.png" alt="Getting Started with Blogging: A Beginners Guide" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//getting-started-with-blogging-a-beginners-guide" title="Getting Started with Blogging: A Beginners Guide"><strong>Getting Started with Blogging: A Beginners Guide</strong></a>
+<br/> Introduction
+If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
+Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
+<p align="left">
 <a href="https://arindam1729.hashnode.dev//uncovering-valuable-insights-from-graham" title="Uncovering Valuable Insights from Graham"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676011284161/5bacc3c8-478c-4d6b-a47c-6ec3f8d78d88.png" alt="Uncovering Valuable Insights from Graham" width="250px" align="left" /></a>
 <a href="https://arindam1729.hashnode.dev//uncovering-valuable-insights-from-graham" title="Uncovering Valuable Insights from Graham"><strong>Uncovering Valuable Insights from Graham</strong></a>
 <br/> Introduction
 As a tech enthusiast, it is very exciting to learn from top professionals and explore various viewpoints in the industry. I had a chance to talk with Graham and got the golden opportunity to learn about his experiences and knowledge.
 In ... </p> <br/> <br/>
-<p align="left">
-<a href="https://arindam1729.hashnode.dev//open-source-licensing-solving-the-mystery" title="Open-Source Licensing: Solving the Mystery"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675585251345/afd050f0-2547-4f15-a90d-c2c4e0d162d4.png" alt="Open-Source Licensing: Solving the Mystery" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//open-source-licensing-solving-the-mystery" title="Open-Source Licensing: Solving the Mystery"><strong>Open-Source Licensing: Solving the Mystery</strong></a>
-<br/> Introduction
-Open-source software has become an integral part of the technology industry, with a wide range of benefits for developers, businesses, and users. However, understanding open-source licensing and copyright can be a complex and confusing t... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
