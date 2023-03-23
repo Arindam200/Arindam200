@@ -30,18 +30,18 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://arindam1729.hashnode.dev//getting-started-with-blogging-a-beginners-guide" title="Getting Started with Blogging: A Beginners Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678203645622/0025ed38-bb32-4b03-a6ca-763c6f7a71b6.png" alt="Getting Started with Blogging: A Beginners Guide" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//getting-started-with-blogging-a-beginners-guide" title="Getting Started with Blogging: A Beginners Guide"><strong>Getting Started with Blogging: A Beginners Guide</strong></a>
+<br/> Introduction
+If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
+Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
+<p align="left">
 <a href="https://arindam1729.hashnode.dev//keep-up-with-the-latest-tech-trends-with-devbytes" title="Keep Up with the Latest Tech Trends with DevBytes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679480929776/ec7d2657-5b8f-4f53-af58-ec424a95755e.png" alt="Keep Up with the Latest Tech Trends with DevBytes" width="250px" align="left" /></a>
 <a href="https://arindam1729.hashnode.dev//keep-up-with-the-latest-tech-trends-with-devbytes" title="Keep Up with the Latest Tech Trends with DevBytes"><strong>Keep Up with the Latest Tech Trends with DevBytes</strong></a>
 <br/> Introduction
 Technologies are evolving very fast, and keeping up with the latest tech trends is not an easy task. But, It is essential to keep up-to-date with the latest technological advancements.
 Don't Worry!
 DevBytes has made it easier, saving us ... </p> <br/> <br/>
-<p align="left">
-<a href="https://arindam1729.hashnode.dev//getting-started-with-blogging-a-beginners-guide" title="Getting Started with Blogging: A Beginners Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678203645622/0025ed38-bb32-4b03-a6ca-763c6f7a71b6.png" alt="Getting Started with Blogging: A Beginners Guide" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//getting-started-with-blogging-a-beginners-guide" title="Getting Started with Blogging: A Beginners Guide"><strong>Getting Started with Blogging: A Beginners Guide</strong></a>
-<br/> Introduction
-If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
-Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
