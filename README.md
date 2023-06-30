@@ -36,10 +36,11 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
 Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
 <p align="left">
-<a href="https://arindam1729.hashnode.dev//reputation-in-tech-via-open-source" title="Reputation in Tech via Open Source"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685183381817/65a56a01-faf6-4ea1-a869-accaa3b1b3b4.png" alt="Reputation in Tech via Open Source" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//reputation-in-tech-via-open-source" title="Reputation in Tech via Open Source"><strong>Reputation in Tech via Open Source</strong></a>
+<a href="https://arindam1729.hashnode.dev//tailwind-css-vs-inline-css-are-they-the-same" title="Tailwind CSS Vs Inline CSS: Are They the Same?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685690400509/3a0ad9c7-1f07-4919-90d3-64dd31d4b912.png" alt="Tailwind CSS Vs Inline CSS: Are They the Same?" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//tailwind-css-vs-inline-css-are-they-the-same" title="Tailwind CSS Vs Inline CSS: Are They the Same?"><strong>Tailwind CSS Vs Inline CSS: Are They the Same?</strong></a>
 <br/> Introduction
-In today's competitive and fast-changing tech industry, having a good reputation is one of the most important aspects of someone's career. While there are many ways to build a strong reputation, one increasingly popular approach is throu... </p> <br/> <br/>
+Many Developers have a misconception that Tailwind Css are Same. At first glance, their structure might appear similar.
+But the reality is quite different. Tailwind CSS and inline CSS are two distinct approaches to styling web applicatio... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
