@@ -78,4 +78,8 @@ In this Blog, I will guide you on how to install and manage different nod... </p
 </table>
 
 
+</div>
+</td>
+</tr>
 [![Arindam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arindam200)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</details>
