@@ -36,13 +36,14 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
 Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
 <p align="left">
-<a href="https://arindam1729.hashnode.dev//manage-node-versions-with-nvm" title="Manage Node versions with NVM."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689925388014/60baa123-4ef3-48af-9114-6a03fde03cef.png" alt="Manage Node versions with NVM." width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//manage-node-versions-with-nvm" title="Manage Node versions with NVM."><strong>Manage Node versions with NVM.</strong></a>
+<a href="https://arindam1729.hashnode.dev//5-tips-tricks-to-enhance-your-tailwind-css-code" title="5 Tips & Tricks to Enhance Your Tailwind CSS Code"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692386763515/e32525a8-334f-4f2e-bea7-b49d792d4e25.png" alt="5 Tips & Tricks to Enhance Your Tailwind CSS Code" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//5-tips-tricks-to-enhance-your-tailwind-css-code" title="5 Tips & Tricks to Enhance Your Tailwind CSS Code"><strong>5 Tips & Tricks to Enhance Your Tailwind CSS Code</strong></a>
 <br/> Introduction:
-When working with Node.js, you might need to install multiple versions of the runtime.
-But, Managing node versions can be tricky for many developers!
-Don't Worry!
-In this Blog, I will guide you on how to install and manage different nod... </p> <br/> <br/>
+Are you a front-end developer or designer looking to unlock the full potential of Tailwind CSS?
+Well, you're in the right place!
+In this blog post, I'll share some Tricks to enhance your Code. Are you ready?
+Let's get started!
+Tailwind ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
