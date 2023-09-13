@@ -36,14 +36,11 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
 Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
 <p align="left">
-<a href="https://arindam1729.hashnode.dev//5-tips-tricks-to-enhance-your-tailwind-css-code" title="5 Tips & Tricks to Enhance Your Tailwind CSS Code"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692386763515/e32525a8-334f-4f2e-bea7-b49d792d4e25.png" alt="5 Tips & Tricks to Enhance Your Tailwind CSS Code" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//5-tips-tricks-to-enhance-your-tailwind-css-code" title="5 Tips & Tricks to Enhance Your Tailwind CSS Code"><strong>5 Tips & Tricks to Enhance Your Tailwind CSS Code</strong></a>
+<a href="https://arindam1729.hashnode.dev//setup-vite-reactjs-with-tailwind-css" title="Setup Vite+ ReactJs with Tailwind CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694618900817/4b8938bf-89fb-4b3b-ac52-8c85ed4cf2a2.png" alt="Setup Vite+ ReactJs with Tailwind CSS" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//setup-vite-reactjs-with-tailwind-css" title="Setup Vite+ ReactJs with Tailwind CSS"><strong>Setup Vite+ ReactJs with Tailwind CSS</strong></a>
 <br/> Introduction:
-Are you a front-end developer or designer looking to unlock the full potential of Tailwind CSS?
-Well, you're in the right place!
-In this blog post, I'll share some Tricks to enhance your Code. Are you ready?
-Let's get started!
-Tailwind ... </p> <br/> <br/>
+We, Developers, always try to Optimize things! That's where this Combo (Vite+React+Tailwind) is gaining popularity among developers because of its fast development experience and performance.
+In this article, we'll learn how to set up a... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
