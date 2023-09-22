@@ -36,11 +36,12 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
 Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
 <p align="left">
-<a href="https://arindam1729.hashnode.dev//setup-vite-reactjs-with-tailwind-css" title="Setup Vite+ ReactJs with Tailwind CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694618900817/4b8938bf-89fb-4b3b-ac52-8c85ed4cf2a2.png" alt="Setup Vite+ ReactJs with Tailwind CSS" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//setup-vite-reactjs-with-tailwind-css" title="Setup Vite+ ReactJs with Tailwind CSS"><strong>Setup Vite+ ReactJs with Tailwind CSS</strong></a>
-<br/> Introduction:
-We, Developers, always try to Optimize things! That's where this Combo (Vite+React+Tailwind) is gaining popularity among developers because of its fast development experience and performance.
-In this article, we'll learn how to set up a... </p> <br/> <br/>
+<a href="https://arindam1729.hashnode.dev//demystifying-hoisting-in-javascript" title="Demystifying Hoisting in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690232971411/7dcea987-e235-4198-ad33-44d33c5a373e.png" alt="Demystifying Hoisting in JavaScript" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//demystifying-hoisting-in-javascript" title="Demystifying Hoisting in JavaScript"><strong>Demystifying Hoisting in JavaScript</strong></a>
+<br/> Introduction
+Hoisting in Javascript is a very interesting yet confusing Concept. Many developers (including me) face problems understanding this concept in the beginning!
+If you are facing problems to understand Hoisting, you are in the right place!
+... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
