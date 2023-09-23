@@ -36,12 +36,12 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
 Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
 <p align="left">
-<a href="https://arindam1729.hashnode.dev//demystifying-hoisting-in-javascript" title="Demystifying Hoisting in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690232971411/7dcea987-e235-4198-ad33-44d33c5a373e.png" alt="Demystifying Hoisting in JavaScript" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//demystifying-hoisting-in-javascript" title="Demystifying Hoisting in JavaScript"><strong>Demystifying Hoisting in JavaScript</strong></a>
+<a href="https://arindam1729.hashnode.dev//understanding-javascript-execution-context" title="Understanding JavaScript Execution Context"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691009936652/f995942e-05f3-42fd-a96d-555f8fecec76.png" alt="Understanding JavaScript Execution Context" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//understanding-javascript-execution-context" title="Understanding JavaScript Execution Context"><strong>Understanding JavaScript Execution Context</strong></a>
 <br/> Introduction
-Hoisting in Javascript is a very interesting yet confusing Concept. Many developers (including me) face problems understanding this concept in the beginning!
-If you are facing problems to understand Hoisting, you are in the right place!
-... </p> <br/> <br/>
+When we write JavaScript code, it's more than just lines of instructions. It creates a sequence of events and executes them in an order.
+But, How does JavaScript decide the order in which these events are executed?
+The answer is simple! ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
