@@ -36,13 +36,12 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
 Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
 <p align="left">
-<a href="https://arindam1729.hashnode.dev//unveiling-javascript-scopes" title="Unveiling Javascript Scopes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690286604855/a31b1fb1-606e-4b0a-a9a4-cd5edfcdb3d3.png" alt="Unveiling Javascript Scopes" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//unveiling-javascript-scopes" title="Unveiling Javascript Scopes"><strong>Unveiling Javascript Scopes</strong></a>
+<a href="https://arindam1729.hashnode.dev//demystifying-javascript-iife" title="Demystifying JavaScript IIFE"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691010026311/7865c2a3-3895-42e7-8986-904e59177b12.png" alt="Demystifying JavaScript IIFE" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//demystifying-javascript-iife" title="Demystifying JavaScript IIFE"><strong>Demystifying JavaScript IIFE</strong></a>
 <br/> Introduction:
-Scopes are one of the fundamental concepts of Javascript. Many Developers face problems understanding the behaviour of variables.
-If you are also facing the same problem.
-Don't Worry! You are in the right place!
-In this blog, We'll expl... </p> <br/> <br/>
+Immediately Invoked Function Expression (IIFE) is one of the most popular design patterns in JavaScript. It pronounces like "iify".
+The Name sounds Complex?
+Don't worry! In this article we'll understand what is IIFE, It's usecase and ma... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
