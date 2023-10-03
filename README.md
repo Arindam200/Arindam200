@@ -36,12 +36,12 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
 Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
 <p align="left">
-<a href="https://arindam1729.hashnode.dev//demystifying-javascript-iife" title="Demystifying JavaScript IIFE"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691010026311/7865c2a3-3895-42e7-8986-904e59177b12.png" alt="Demystifying JavaScript IIFE" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//demystifying-javascript-iife" title="Demystifying JavaScript IIFE"><strong>Demystifying JavaScript IIFE</strong></a>
+<a href="https://arindam1729.hashnode.dev//understanding-javasscript-oops" title="Understanding JavasScript OOPs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691010169864/a1cf9117-2907-4942-a122-dbb6a0c1bacb.png" alt="Understanding JavasScript OOPs" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//understanding-javasscript-oops" title="Understanding JavasScript OOPs"><strong>Understanding JavasScript OOPs</strong></a>
 <br/> Introduction:
-Immediately Invoked Function Expression (IIFE) is one of the most popular design patterns in JavaScript. It pronounces like "iify".
-The Name sounds Complex?
-Don't worry! In this article we'll understand what is IIFE, It's usecase and ma... </p> <br/> <br/>
+Many Developers doubt whether JavaScript is a Functional Programming language or Object Oriented!
+In reality, It's Both!
+JavaScript is a prototype-based procedural language, which means it supports both functional and object-oriented pr... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
