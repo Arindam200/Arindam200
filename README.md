@@ -36,12 +36,11 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
 Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
 <p align="left">
-<a href="https://arindam1729.hashnode.dev//understanding-javasscript-oops" title="Understanding JavasScript OOPs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691010169864/a1cf9117-2907-4942-a122-dbb6a0c1bacb.png" alt="Understanding JavasScript OOPs" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//understanding-javasscript-oops" title="Understanding JavasScript OOPs"><strong>Understanding JavasScript OOPs</strong></a>
-<br/> Introduction:
-Many Developers doubt whether JavaScript is a Functional Programming language or Object Oriented!
-In reality, It's Both!
-JavaScript is a prototype-based procedural language, which means it supports both functional and object-oriented pr... </p> <br/> <br/>
+<a href="https://arindam1729.hashnode.dev//understanding-git-hooks" title="Understanding Git Hooks"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695826403824/4e86c5c8-314a-4091-820e-2db03c4732b8.png" alt="Understanding Git Hooks" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//understanding-git-hooks" title="Understanding Git Hooks"><strong>Understanding Git Hooks</strong></a>
+<br/> Introduction
+Git Hooks are a very useful yet overlooked feature of Git. With this feature, we can perform various operations to enhance our Version Control Workflow.
+In this article, we will understand What is Git-Hooks, its types and implementation.... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
