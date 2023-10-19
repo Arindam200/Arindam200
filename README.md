@@ -36,11 +36,11 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
 Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
 <p align="left">
-<a href="https://arindam1729.hashnode.dev//understanding-git-hooks" title="Understanding Git Hooks"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695826403824/4e86c5c8-314a-4091-820e-2db03c4732b8.png" alt="Understanding Git Hooks" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//understanding-git-hooks" title="Understanding Git Hooks"><strong>Understanding Git Hooks</strong></a>
-<br/> Introduction
-Git Hooks are a very useful yet overlooked feature of Git. With this feature, we can perform various operations to enhance our Version Control Workflow.
-In this article, we will understand What is Git-Hooks, its types and implementation.... </p> <br/> <br/>
+<a href="https://arindam1729.hashnode.dev//create-a-custom-vs-code-snippet" title="Create  a  Custom VS Code Snippet"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695026351622/1b0c3211-799c-4c5a-bbd2-697760bd1549.png" alt="Create  a  Custom VS Code Snippet" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//create-a-custom-vs-code-snippet" title="Create  a  Custom VS Code Snippet"><strong>Create  a  Custom VS Code Snippet</strong></a>
+<br/> Introduction:
+As Developers, we always prefer not to write the same code again and again. Snippets solve this problem by making repetitive tasks simpler and quicker.
+There are thousands of pre-built snippets on VS code to make our work easy. We can a... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
