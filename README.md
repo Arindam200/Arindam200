@@ -36,11 +36,11 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
 Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
 <p align="left">
-<a href="https://arindam1729.hashnode.dev//create-a-custom-vs-code-snippet" title="Create  a  Custom VS Code Snippet"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695026351622/1b0c3211-799c-4c5a-bbd2-697760bd1549.png" alt="Create  a  Custom VS Code Snippet" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//create-a-custom-vs-code-snippet" title="Create  a  Custom VS Code Snippet"><strong>Create  a  Custom VS Code Snippet</strong></a>
+<a href="https://arindam1729.hashnode.dev//javascript-xmlhttprequest" title="JavaScript XMLHttpRequest()"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691774280065/d1609c87-a640-4119-85eb-e6e813173e20.png" alt="JavaScript XMLHttpRequest()" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//javascript-xmlhttprequest" title="JavaScript XMLHttpRequest()"><strong>JavaScript XMLHttpRequest()</strong></a>
 <br/> Introduction:
-As Developers, we always prefer not to write the same code again and again. Snippets solve this problem by making repetitive tasks simpler and quicker.
-There are thousands of pre-built snippets on VS code to make our work easy. We can a... </p> <br/> <br/>
+XMLHttpRequest() is a crucial tool in web development, empowering your web applications to interact with servers and retrieve data without having to refresh the page.
+In this article, We'll understand what is XMLHttpRequest,how it works... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
