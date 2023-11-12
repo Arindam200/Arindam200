@@ -53,11 +53,12 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
 Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
 <p align="left">
-<a href="https://arindam1729.hashnode.dev//understanding-javascript-call-stack" title="Understanding Javascript Call-Stack"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691010494159/fdec98fe-4a9e-45dc-9019-96b3aec3ec7c.png" alt="Understanding Javascript Call-Stack" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//understanding-javascript-call-stack" title="Understanding Javascript Call-Stack"><strong>Understanding Javascript Call-Stack</strong></a>
-<br/> Introduction
-One of the fundamental concepts of JavaScript is the call stack, which is a mechanism that tracks the execution of code in a JavaScript program.
-In this article, we will explore the call stack of JavaScript, its role in the execution of ... </p> <br/> <br/>
+<a href="https://arindam1729.hashnode.dev//mastering-javascript-dom" title="Mastering JavaScript DOM"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694953042025/d7187dec-265b-4ffc-9b3e-83a484d13069.png" alt="Mastering JavaScript DOM" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//mastering-javascript-dom" title="Mastering JavaScript DOM"><strong>Mastering JavaScript DOM</strong></a>
+<br/> Introduction:
+DOM is the backbone for building dynamic, responsive, and interactive web applications.
+In this Article, We'll explore What is DOM ( Document Object Model ), its Structure, How to access DOM elements, Manipulate them and many more...
+Ex... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
