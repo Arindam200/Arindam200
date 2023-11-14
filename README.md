@@ -53,12 +53,11 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
 Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
 <p align="left">
-<a href="https://arindam1729.hashnode.dev//mastering-javascript-dom" title="Mastering JavaScript DOM"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694953042025/d7187dec-265b-4ffc-9b3e-83a484d13069.png" alt="Mastering JavaScript DOM" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//mastering-javascript-dom" title="Mastering JavaScript DOM"><strong>Mastering JavaScript DOM</strong></a>
-<br/> Introduction:
-DOM is the backbone for building dynamic, responsive, and interactive web applications.
-In this Article, We'll explore What is DOM ( Document Object Model ), its Structure, How to access DOM elements, Manipulate them and many more...
-Ex... </p> <br/> <br/>
+<a href="https://arindam1729.hashnode.dev//map-filter-reduce-functions-in-javascript" title="Map, Filter & Reduce Functions in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696046250707/b0c8a9b5-3efc-461d-af99-97846bfaa930.png" alt="Map, Filter & Reduce Functions in JavaScript" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//map-filter-reduce-functions-in-javascript" title="Map, Filter & Reduce Functions in JavaScript"><strong>Map, Filter & Reduce Functions in JavaScript</strong></a>
+<br/> Introduction
+Map, filter, and reduce are three of the most useful and powerful high-order array methods!
+If you want to master React a greater understanding of these methods will help you in your learning journey as these methods are used pretty much... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
