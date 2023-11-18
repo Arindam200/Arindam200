@@ -53,11 +53,12 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
 Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
 <p align="left">
-<a href="https://arindam1729.hashnode.dev//map-filter-reduce-functions-in-javascript" title="Map, Filter & Reduce Functions in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696046250707/b0c8a9b5-3efc-461d-af99-97846bfaa930.png" alt="Map, Filter & Reduce Functions in JavaScript" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//map-filter-reduce-functions-in-javascript" title="Map, Filter & Reduce Functions in JavaScript"><strong>Map, Filter & Reduce Functions in JavaScript</strong></a>
-<br/> Introduction
-Map, filter, and reduce are three of the most useful and powerful high-order array methods!
-If you want to master React a greater understanding of these methods will help you in your learning journey as these methods are used pretty much... </p> <br/> <br/>
+<a href="https://arindam1729.hashnode.dev//the-inner-workings-of-web-browsers" title="The Inner Workings of Web Browsers!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696045850164/f4bee677-92d2-452c-936a-5b0279f63204.png" alt="The Inner Workings of Web Browsers!" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//the-inner-workings-of-web-browsers" title="The Inner Workings of Web Browsers!"><strong>The Inner Workings of Web Browsers!</strong></a>
+<br/> Introduction:
+We, Developers, use browsers almost every day! But Have you ever thought How the Browser internally works? How do they show pages from HTML, CSS, and Javascript?
+If you haven't! Don't worry!
+In this article we'll be exploring the intern... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
