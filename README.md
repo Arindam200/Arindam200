@@ -53,14 +53,10 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
 Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
 <p align="left">
-<a href="https://arindam1729.hashnode.dev//authenticate-your-react-app-with-firebase" title="Authenticate Your React App with Firebase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695094573471/a8a4ec0f-bf9c-460e-9fdf-eb574da0e9a6.png" alt="Authenticate Your React App with Firebase" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//authenticate-your-react-app-with-firebase" title="Authenticate Your React App with Firebase"><strong>Authenticate Your React App with Firebase</strong></a>
+<a href="https://arindam1729.hashnode.dev//authenticate-your-react-app-with-supabase" title="Authenticate your React App with Supabase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695829688791/111c5c18-a25c-467a-a818-1ea32c4e5eea.png" alt="Authenticate your React App with Supabase" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//authenticate-your-react-app-with-supabase" title="Authenticate your React App with Supabase"><strong>Authenticate your React App with Supabase</strong></a>
 <br/> Introduction
-Authentication is a feature that most apps need. Firebase is the most popular service provider for user authentication. In this article, we'll see how to perform user authentication with Firebase SDK.
-So, Let's Start!
-
-Project Setup:
-In ... </p> <br/> <br/>
+User authentication is a crucial aspect of modern web applications. Implementing user authentication can be complex and time-consuming, especially when developing an application from scratch, That's where different service providers like... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
