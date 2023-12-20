@@ -53,10 +53,11 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
 Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
 <p align="left">
-<a href="https://arindam1729.hashnode.dev//authenticate-your-react-app-with-supabase" title="Authenticate your React App with Supabase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695829688791/111c5c18-a25c-467a-a818-1ea32c4e5eea.png" alt="Authenticate your React App with Supabase" width="250px" align="left" /></a>
-<a href="https://arindam1729.hashnode.dev//authenticate-your-react-app-with-supabase" title="Authenticate your React App with Supabase"><strong>Authenticate your React App with Supabase</strong></a>
+<a href="https://arindam1729.hashnode.dev//authenticate-your-react-app-with-appwrite" title="Authenticate your React App with Appwrite"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1698927430236/ac4be39f-b800-47ff-9692-60bbdaf25754.png" alt="Authenticate your React App with Appwrite" width="250px" align="left" /></a>
+<a href="https://arindam1729.hashnode.dev//authenticate-your-react-app-with-appwrite" title="Authenticate your React App with Appwrite"><strong>Authenticate your React App with Appwrite</strong></a>
 <br/> Introduction
-User authentication is a crucial aspect of modern web applications. Implementing user authentication can be complex and time-consuming, especially when developing an application from scratch, That's where different service providers like... </p> <br/> <br/>
+User authentication is a crucial aspect of modern web applications. Implementing user authentication from scratch is not an easy task. However, With Appwrite we can easily perform user Authentication.
+In this article, We'll explore How t... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
