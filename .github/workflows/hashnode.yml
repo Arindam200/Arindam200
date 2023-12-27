@@ -14,11 +14,11 @@ jobs:
         uses: actions/checkout@main
 
       - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@1.1.1"
+        uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'Arindam1729' # Hashnode Username
-          COUNT: 2 # MAX Visisble
-          STYLE: "blog-left"
+          COUNT: 4 # MAX Visisble
+          STYLE: "blog-grid-2"
           BLOG_URL: "https://arindam1729.hashnode.dev/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
