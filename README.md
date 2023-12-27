@@ -46,18 +46,29 @@ src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-th
 ## <a href="https://arindam1729.hashnode.dev/"><img src="https://github.com/Arindam200/Arindam200/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode
 
 <!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://arindam1729.hashnode.dev//getting-started-with-blogging-a-beginners-guide" title="Getting Started with Blogging: A Beginners Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694621881990/9e837937-d888-4a19-989d-358d22fc5557.gif" alt="Getting Started with Blogging: A Beginners Guide" width="250px" align="left" /></a>
+<table><tr><td><a href="https://arindam1729.hashnode.dev//getting-started-with-blogging-a-beginners-guide" title="Getting Started with Blogging: A Beginners Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694621881990/9e837937-d888-4a19-989d-358d22fc5557.gif" alt="Getting Started with Blogging: A Beginners Guide"   /></a>
 <a href="https://arindam1729.hashnode.dev//getting-started-with-blogging-a-beginners-guide" title="Getting Started with Blogging: A Beginners Guide"><strong>Getting Started with Blogging: A Beginners Guide</strong></a>
+<div><strong>11 Mar 2023</strong> | <strong>Updated: 13 Sept 2023</strong></div>
 <br/> Introduction
 If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
-Through this blog, we'll explore the basics of blogging, incl... </p> <br/> <br/>
-<p align="left">
-<a href="https://arindam1729.hashnode.dev//authenticate-your-react-app-with-appwrite" title="Authenticate your React App with Appwrite"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1698927430236/ac4be39f-b800-47ff-9692-60bbdaf25754.png" alt="Authenticate your React App with Appwrite" width="250px" align="left" /></a>
+Through this blog, we'll explore the basics of blogging, incl...</td><td><a href="https://arindam1729.hashnode.dev//authenticate-your-react-app-with-appwrite" title="Authenticate your React App with Appwrite"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1698927430236/ac4be39f-b800-47ff-9692-60bbdaf25754.png" alt="Authenticate your React App with Appwrite"   /></a>
 <a href="https://arindam1729.hashnode.dev//authenticate-your-react-app-with-appwrite" title="Authenticate your React App with Appwrite"><strong>Authenticate your React App with Appwrite</strong></a>
+<div><strong>20 Dec 2023</strong></div>
 <br/> Introduction
 User authentication is a crucial aspect of modern web applications. Implementing user authentication from scratch is not an easy task. However, With Appwrite we can easily perform user Authentication.
-In this article, We'll explore How t... </p> <br/> <br/>
+In this article, We'll explore How t...</td></tr><tr><td><a href="https://arindam1729.hashnode.dev//authenticate-your-react-app-with-supabase" title="Authenticate your React App with Supabase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695829688791/111c5c18-a25c-467a-a818-1ea32c4e5eea.png" alt="Authenticate your React App with Supabase"   /></a>
+<a href="https://arindam1729.hashnode.dev//authenticate-your-react-app-with-supabase" title="Authenticate your React App with Supabase"><strong>Authenticate your React App with Supabase</strong></a>
+<div><strong>9 Dec 2023</strong></div>
+<br/> Introduction
+User authentication is a crucial aspect of modern web applications. Implementing user authentication can be complex and time-consuming, especially when developing an application from scratch, That's where different service providers like...</td><td><a href="https://arindam1729.hashnode.dev//authenticate-your-react-app-with-firebase" title="Authenticate Your React App with Firebase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695094573471/a8a4ec0f-bf9c-460e-9fdf-eb574da0e9a6.png" alt="Authenticate Your React App with Firebase"   /></a>
+<a href="https://arindam1729.hashnode.dev//authenticate-your-react-app-with-firebase" title="Authenticate Your React App with Firebase"><strong>Authenticate Your React App with Firebase</strong></a>
+<div><strong>4 Dec 2023</strong> | <strong>Updated: 14 Dec 2023</strong></div>
+<br/> Introduction
+Authentication is a feature that most apps need. Firebase is the most popular service provider for user authentication. In this article, we'll see how to perform user authentication with Firebase SDK.
+So, Let's Start!
+
+Project Setup:
+In ...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
