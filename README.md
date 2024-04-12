@@ -3,7 +3,6 @@
 <h1 align="center">
 Arindam Majumder
 </h1>
-<img align="right" alt="coding" width="400" height="340" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
  
 - 🛠️ DevRel @Pieces.app
 - 🎙️ Prev @Keployio , @ShowwcaseHQ
@@ -13,13 +12,15 @@ Arindam Majumder
 
 
 ---
-
+<!--
 ## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_arindam_official?igshid=YmMyMTA2M2Y=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arindam-majumder-021bb623b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Arindam_1729) [![hashnode](http://img.shields.io/badge/-Hashnode-2962ff?style=flat&logo=hashnode&logoColor=white)](https://arindam1729.hashnode.dev/)
 
 <a href="https://www.twitter.com/arindam_1729" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/arindam_1729?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/Arindam200" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Arindam200?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+-->
 
  ## **Tech Stack**
  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />&ensp;
@@ -70,14 +71,14 @@ In this article, We'll explore How t...</td><td><a href="https://arindam1729.has
 User authentication is a crucial aspect of modern web applications. Implementing user authentication can be complex and time-consuming, especially when developing an application from scratch, That's where different service providers like...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
+
+
+<!--
+
 <div align="center">
 <p align="center"><b>FOR MORE BLOGS ⬇</b></p>
 <p><a href="https://arindam1729.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
 </div>
-
-
----
-
 
 <details>
 
@@ -110,3 +111,4 @@ User authentication is a crucial aspect of modern web applications. Implementing
 [![Arindam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arindam200)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
+-->
