@@ -1,8 +1,8 @@
-[![MasterHead](https://github.com/Arindam200/Arindam200/blob/main/github-header-image.png)](https://github.com/Arindam200)
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=A13B3B&size=20&center=true&vCenter=true&lines=Welcome+to+my+Profile+!!;I+am+open-minded+and+eager+to+learn;Interested+in+Open-Source...;Have+a+nice+day+ahead+!!"></p>
+[![MasterHead](https://github.com/Arindam200/Arindam200/blob/main/banner2.png)](https://github.com/Arindam200)
 
-##  Arindam Majumder
-
+<h1 align="center">
+Arindam Majumder
+</h1>
 <img align="right" alt="coding" width="400" height="340" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
  
 - 🛠️ DevRel @Pieces.app
